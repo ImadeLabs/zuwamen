@@ -70,6 +70,20 @@ const vehicles = [
     video: "/Thighlander2010 (1).MP4",
     specs: ["3.5L V6", "4WD", "7-Seater", "JBL Audio"],
     hasThumbStart: false
+  },
+
+  {
+    id: "lexus-rx350-2013",
+    name: "Lexus RX 350 2013",
+    price: "₦24,000,000",
+    tag: "Luxury SUV",
+    location: "Lagos Cleared",
+    description: "Elegant 2013 Lexus RX 350. Features premium styling, smooth performance, and a luxurious cabin. A perfect blend of comfort and reliability, fully cleared and ready.",
+    heroImage: "/lexus2013 (1).jpg",
+    images: ["/lexus2013 (2).jpg", "/lexus2013 (3).jpg", "/lexus2013 (4).jpg"],
+    video: null,
+    specs: ["Luxury SUV", "Direct USA Spec", "Premium Comfort"],
+    hasThumbStart: true
   }
 ];
 
