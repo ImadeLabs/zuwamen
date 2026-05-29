@@ -89,7 +89,7 @@ const vehicles = [
 
 export default function ZuwamenAutosShowroom() {
   const [activeLightboxImage, setActiveLightboxImage] = useState<string | null>(null);
-  const dealerPhone = "+17703769997";
+  const dealerPhone = "+2348105105757";
   const cleanPhone = dealerPhone.replace(/[^0-9]/g, '');
 
   return (
