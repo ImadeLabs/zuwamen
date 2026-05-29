@@ -22,8 +22,8 @@ const vehicles = [
   {
     id: "camry-xle-2012",
     name: "Toyota Camry 2012",
-    price: "₦16,000,000",
-    tag: "XLE Premium",
+    price: "SOLD",
+    tag: "SOLD",
     location: "Lagos Cleared",
     description: "Clean USA Spec XLE Edition with Thumb Start. Shipped directly from the USA and cleared in Lagos. Premium comfort meets reliability.",
     heroImage: "/camryxle2012 (2).jpg",
@@ -35,8 +35,8 @@ const vehicles = [
   {
     id: "lexus-rx350-2012",
     name: "Lexus RX 350 2012",
-    price: "₦18,000,000",
-    tag: "Luxury SUV",
+    price: "SOLD",
+    tag: "SOLD",
     location: "Lagos Cleared",
     description: "Premium Black on Black Edition. Clean USA Spec with dark wood trim and perforated leather. Exceptionally maintained luxury SUV cleared in Lagos.",
     heroImage: "/lexus (7).jpg",
@@ -48,7 +48,7 @@ const vehicles = [
   {
     id: "highlander-2017-xle",
     name: "Toyota Highlander 2017",
-    price: "₦32,000,000 (Neg.)",
+    price: "₦24,000,000 (Neg.)",
     tag: "XLE Package",
     location: "Lagos Cleared",
     description: "Modern family luxury. Clean white exterior with premium cream leather. Shipped directly from USA and cleared in Lagos. Available for immediate pickup.",
@@ -60,8 +60,8 @@ const vehicles = [
   },
   {
     id: "highlander-2010-limited",
-    name: "Toyota Highlander 2010",
-    price: "₦20,000,000",
+    name: "Toyota Highlander 2010 Limited",
+    price: "₦14,000,000",
     tag: "Limited Edition",
     location: "Lagos Cleared",
     description: "Reliable and spacious 7-seater SUV. Features the powerful 3.5L V6 engine, smooth 4WD capability, and premium Limited trim styling.",
@@ -75,7 +75,7 @@ const vehicles = [
   {
     id: "lexus-rx350-2013",
     name: "Lexus RX 350 2013",
-    price: "₦24,000,000",
+    price: "₦22,500,000",
     tag: "Luxury SUV",
     location: "Lagos Cleared",
     description: "Elegant 2013 Lexus RX 350. Features premium styling, smooth performance, and a luxurious cabin. A perfect blend of comfort and reliability, fully cleared and ready.",
